@@ -1,0 +1,7 @@
+// --- Header Background Opacity ---
+// Controls the opacity of the background color tint applied to the whole admonition block.
+// Value should be between 0 (transparent) and 1 (opaque).
+$admonition-light-bg: rgba(#ffffff, 0.3);
+$admonition-light-header-bg-opacity: 0.1;
+$admonition-dark-bg: rgba(#000000, 0.3);
+$admonition-dark-header-bg-opacity: 0.1;

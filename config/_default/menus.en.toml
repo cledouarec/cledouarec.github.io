@@ -1,0 +1,38 @@
+[[main]]
+  none = "none"
+
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 1
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 2
+
+[[main]]
+  name = "People Management"
+  parent = "Categories"
+  pageRef = "people-management"
+  weight = 21
+
+[[main]]
+  name = "Product Management"
+  parent = "Categories"
+  pageRef = "product-management"
+  weight = 22
+
+[[main]]
+  name = "Tech"
+  parent = "Categories"
+  pageRef = "tech"
+  weight = 23
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 3
+
+[[footer]]
+  none = "none"

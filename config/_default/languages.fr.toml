@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "fr"
+languageName = "Français"
+weight = 1
+title = "Embedded Leadership"
+
+[params]
+  displayName = "Français"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "logo.svg"
+  description = "Blog sur les systèmes embarqués, l'ingénierie logicielle, le leadership, le management et la technologie."
+
+  [[params.author.links]]
+    github = "https://github.com/cledouarec"
+
+  [[params.author.links]]
+    linkedin = "https://www.linkedin.com/in/christophe-le-douarec/"
+
+  ["params.author"]
+    name = "Christophe Le Douarec"
+    image = "LE DOUAREC Christophe.jpg"
+    headline = "Leader technique expérimenté, avec une solide expérience dans les systèmes embarqués et l’amélioration organisationnelle, au sein d'équipes R&D au service des objectifs business."
+    bio = "Leader technique expérimenté, avec une solide expérience dans les systèmes embarqués et l’amélioration organisationnelle, au sein d'équipes R&D au service des objectifs business."
