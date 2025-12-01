@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="205.71428"
+   inkscape:export-ydpi="205.71428"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71535494"
+     inkscape:cx="397.00572"
+     inkscape:cy="337.59465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="false">
+    <inkscape:page
+       x="0"
+       y="9.9391148e-29"
+       width="185.20833"
+       height="185.20834"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207704"
+       id="path1-36-7"
+       cx="99.604156"
+       cy="99.604156"
+       r="79.375"
+       inkscape:label="Fond blanc visage" />
+    <path
+       id="path1-3"
+       style="display:inline;fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.207432"
+       d="M 46.314913,41.126599 A 79.271286,79.271286 0 0 0 20.333036,99.60417 79.271286,79.271286 0 0 0 99.60417,178.8753 79.271286,79.271286 0 0 0 164.62914,144.66653 92.483002,92.483162 0 0 1 137.35638,148.95051 92.483002,92.483162 0 0 1 44.873657,56.467265 92.483002,92.483162 0 0 1 46.314913,41.126599 Z"
+       inkscape:label="Ombre visage" />
+    <g
+       id="g2"
+       inkscape:label="Circuit 1"
+       transform="translate(7,7)">
+      <rect
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.204731;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2"
+         width="10.583333"
+         height="31.75"
+         x="63.5"
+         y="10.583333"
+         inkscape:label="Tige circuit" />
+      <circle
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.229298;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         cx="68.791664"
+         cy="47.625"
+         r="9.260417"
+         inkscape:label="Rond exterieur circuit" />
+      <circle
+         style="fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.0982705;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-3"
+         cx="68.791664"
+         cy="47.625"
+         inkscape:label="Rond interieur circuit"
+         r="3.96875" />
+    </g>
+    <g
+       id="g4"
+       inkscape:label="Circuit 2"
+       transform="translate(34.781253,7)">
+      <rect
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.228896;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="10.583333"
+         height="39.6875"
+         x="63.5"
+         y="10.583333"
+         inkscape:label="Tige circuit" />
+      <circle
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.229298;stroke-dasharray:none;stroke-opacity:1"
+         id="circle3"
+         cx="68.791664"
+         cy="55.5625"
+         r="9.260417"
+         inkscape:label="Rond exterieur circuit" />
+      <circle
+         style="fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.0982705;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4"
+         cx="68.791664"
+         cy="55.5625"
+         inkscape:label="Rond interieur circuit"
+         r="3.96875" />
+    </g>
+    <g
+       id="g7"
+       inkscape:label="Circuit 3"
+       transform="translate(57.270836,7)">
+      <rect
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.204731;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6"
+         width="10.583333"
+         height="31.75"
+         x="63.5"
+         y="10.583333"
+         inkscape:label="Tige circuit" />
+      <circle
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.229298;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6"
+         cx="68.791664"
+         cy="47.625"
+         r="9.260417"
+         inkscape:label="Rond exterieur circuit" />
+      <circle
+         style="fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.0982705;stroke-dasharray:none;stroke-opacity:1"
+         id="circle7"
+         cx="68.791664"
+         cy="47.625"
+         inkscape:label="Rond interieur circuit"
+         r="3.96875" />
+    </g>
+    <g
+       id="g10"
+       inkscape:label="Circuit 4"
+       transform="translate(80.025017,7)">
+      <rect
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.204731;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9"
+         width="10.583333"
+         height="31.75"
+         x="63.5"
+         y="21.166666"
+         inkscape:label="Tige circuit" />
+      <circle
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.229298;stroke-dasharray:none;stroke-opacity:1"
+         id="circle9"
+         cx="68.791664"
+         cy="58.208332"
+         r="9.260417"
+         inkscape:label="Rond exterieur circuit" />
+      <circle
+         style="fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.0982705;stroke-dasharray:none;stroke-opacity:1"
+         id="circle10"
+         cx="68.791664"
+         cy="58.208332"
+         inkscape:label="Rond interieur circuit"
+         r="3.96875" />
+    </g>
+    <g
+       id="g12"
+       inkscape:label="Circuit 5"
+       transform="translate(42.718753,7)">
+      <rect
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.118202;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10"
+         width="10.583333"
+         height="10.583333"
+         x="63.5"
+         y="164.04167"
+         inkscape:label="Tige circuit" />
+      <circle
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.229298;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11"
+         cx="68.791664"
+         cy="158.75"
+         r="9.260417"
+         inkscape:label="Rond exterieur circuit" />
+      <circle
+         style="fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.0982705;stroke-dasharray:none;stroke-opacity:1"
+         id="circle12"
+         cx="68.791664"
+         cy="158.75"
+         inkscape:label="Rond interieur circuit"
+         r="3.96875" />
+    </g>
+    <g
+       id="g14"
+       inkscape:label="Circuit 6"
+       transform="translate(13.614586,7)">
+      <rect
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.144767;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12"
+         width="10.583333"
+         height="15.875"
+         x="63.5"
+         y="158.75"
+         inkscape:label="Tige circuit" />
+      <circle
+         style="opacity:1;fill:#035f9e;fill-opacity:1;stroke:none;stroke-width:0.229298;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13"
+         cx="68.791664"
+         cy="153.45833"
+         r="9.260417"
+         inkscape:label="Rond exterieur circuit" />
+      <circle
+         style="fill:#c0d7e8;fill-opacity:1;stroke:none;stroke-width:0.0982705;stroke-dasharray:none;stroke-opacity:1"
+         id="circle14"
+         cx="68.791664"
+         cy="153.45833"
+         inkscape:label="Rond interieur circuit"
+         r="3.96875" />
+    </g>
+    <path
+       id="path1"
+       style="opacity:1;fill:#052558;fill-opacity:1;stroke:none;stroke-width:0.24232"
+       inkscape:label="Contour visage"
+       d="M 99.60417,7 A 92.604164,92.604164 0 0 0 7,99.60417 92.604164,92.604164 0 0 0 99.60417,192.20833 92.604164,92.604164 0 0 0 192.20833,99.60417 92.604164,92.604164 0 0 0 99.60417,7 Z m 0,13.229167 a 79.375,79.375 0 0 1 79.375,79.375003 79.375,79.375 0 0 1 -79.375,79.375 79.375,79.375 0 0 1 -79.375003,-79.375 79.375,79.375 0 0 1 79.375003,-79.375003 z" />
+    <circle
+       style="display:inline;fill:#77b3d8;fill-opacity:1;stroke:none;stroke-width:0.051926"
+       id="path1-36-1"
+       cx="58.59375"
+       cy="111.51041"
+       r="19.84375"
+       inkscape:label="Pomette gauche" />
+    <circle
+       style="display:inline;fill:#77b3d8;fill-opacity:1;stroke:none;stroke-width:0.051926"
+       id="path1-36-1-0"
+       cx="140.61458"
+       cy="111.51041"
+       r="19.84375"
+       inkscape:label="Pomette droite" />
+    <g
+       id="g6"
+       inkscape:label="Oeil droit"
+       transform="translate(7,7)">
+      <circle
+         style="display:inline;fill:#052558;fill-opacity:1;stroke:none;stroke-width:0.0346173"
+         id="path1-36-1-0-9"
+         cx="129.64583"
+         cy="84.666664"
+         inkscape:label="Oeil droite"
+         inkscape:transform-center-x="-38.09589"
+         inkscape:transform-center-y="-17.753425"
+         r="13.229167" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0103852"
+         id="path1-36-1-0-9-9"
+         cx="129.64583"
+         cy="79.375"
+         inkscape:label="Pupille droite"
+         inkscape:transform-center-x="-11.428762"
+         inkscape:transform-center-y="-5.3260245"
+         r="3.96875" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0051926"
+         id="path1-36-1-0-9-9-3"
+         cx="123.69271"
+         cy="85.328125"
+         inkscape:label="Reflet pupille droite"
+         inkscape:transform-center-x="-5.7143722"
+         inkscape:transform-center-y="-2.6630136"
+         r="1.984375" />
+    </g>
+    <g
+       id="g5"
+       inkscape:label="Oeil gauche"
+       transform="translate(7,7)">
+      <circle
+         style="display:inline;fill:#052558;fill-opacity:1;stroke:none;stroke-width:0.0346173"
+         id="path1-36-1-0-9-7"
+         cx="58.208332"
+         cy="84.666664"
+         inkscape:label="Oeil gauche"
+         inkscape:transform-center-x="-38.09589"
+         inkscape:transform-center-y="-17.753425"
+         r="13.229167" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0103852"
+         id="path1-36-1-0-9-9-7"
+         cx="58.208332"
+         cy="78.052086"
+         inkscape:label="Pupille gauche"
+         inkscape:transform-center-x="-11.428762"
+         inkscape:transform-center-y="-5.3260245"
+         r="3.96875" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0051926"
+         id="path1-36-1-0-9-9-3-3"
+         cx="52.255207"
+         cy="85.328125"
+         inkscape:label="Reflet pupille gauche"
+         inkscape:transform-center-x="-5.7143722"
+         inkscape:transform-center-y="-2.6630136"
+         r="1.984375" />
+    </g>
+    <path
+       d="M 96.915651,122.53351 C 91.145345,121.4844 86.55594,117.04583 85.267687,111.2757 c -0.523356,-2.39414 -0.09391,-4.08886 1.288253,-5.03037 1.194315,-0.82046 2.415479,-0.88772 3.703732,-0.24211 1.073539,0.53801 1.395605,1.02222 2.267864,3.36255 0.899087,2.38069 2.375216,4.11576 4.294177,5.01693 0.925927,0.44385 1.154057,0.49765 2.361807,0.538 1.11379,0.0403 1.48954,0 2.20076,-0.2421 1.12722,-0.3766 2.05315,-0.99531 3.0596,-2.05788 1.0467,-1.08947 1.61032,-1.97718 2.45574,-3.88711 0.81858,-1.82922 1.28825,-2.44793 2.20077,-2.87834 1.93237,-0.90116 4.38811,0.17486 4.92488,2.15203 0.50993,1.86958 -0.50993,5.44733 -2.34838,8.20462 -2.2947,3.4298 -6.01186,5.74323 -10.23893,6.38884 -1.28826,0.20175 -3.22064,0.1614 -4.522309,-0.0672 z"
+       id="path292"
+       inkscape:label="Bouche"
+       style="fill:#052558;fill-opacity:1;stroke-width:0.268695" />
+  </g>
+</svg>
