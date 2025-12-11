@@ -48,10 +48,9 @@ Lors de l’étape de décision, il est important de rechercher le _consent rath
 _than consensus_, ce qui signifie que l’objectif n’est pas que tout le monde
 soit d’accord, mais que personne ne soit fermement opposé à la décision.
 
-De manière générale, une réunion peut convenir, même si par nature elle
-implique une communication synchrone. Cependant, il est tout à fait possible de
-rendre ce processus entièrement asynchrone, tant que les échanges restent
-réactifs.
+De manière générale, une réunion peut convenir, mais comme il s’agit d’un
+format synchrone, il est souvent préférable d’opter pour une approche
+asynchrone si vous pouvez garantir des réponses rapides.
 
 > [!tip]
 > Limitez le nombre de participants aux personnes vraiment indispensables. Cela

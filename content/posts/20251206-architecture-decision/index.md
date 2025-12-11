@@ -45,9 +45,8 @@ During the decision step, it is important to search _consent rather than_
 _consensus_ which means that we do not try to get everyone to agree but try to
 have no one against the decision.
 
-In general, a meeting may be suitable, even though by nature it requires
-synchronous communication. However, it’s also entirely possible to make this
-process fully asynchronous, as long as responses remain timely.
+In general, a meeting is suitable, but being a synchronous format, it’s usually
+preferable to use an asynchronous approach if you can keep responses timely.
 
 > [!tip]
 > Limit the number of participants to only those who are truly necessary. This
