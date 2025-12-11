@@ -84,7 +84,7 @@ is to see the action taken as a result of the discussion.
 > instance only pros but no cons. Special cases of this anti-pattern are
 > truisms and tautologies.
 >
-> Here is a simple example:
+> > [!example]
 > > We decided for a load balancer because it balances load, which is a good
 > > thing.
 
@@ -94,7 +94,7 @@ is to see the action taken as a result of the discussion.
 > information would bloat the ADR; hyperlinks or bibliographic references can
 > be provided instead.
 >
-> Example (exaggerated intentionally):
+> > [!example] Example (exaggerated intentionally):
 > > We chose this outstanding technology because is very much unrivaled in the
 > > marketplace; its splendid performance shines everywhere, and all its
 > > adopters are extraordinarily happy all the time.
@@ -118,7 +118,7 @@ affect the team and project in the future.
 > accidentally or hidden deliberately, those that only materialize in the long
 > run in particular.
 >
-> Example:
+> > [!example]
 > > We decided for an event-driven architecture because it decouples the
 > > components from each other.
 >
@@ -149,7 +149,7 @@ and objectives.
 > preferred option shine and give the impression that multiple alternatives
 > have been evaluated, which is not really the case.
 >
-> Example:
+> > [!example]
 > > We decided to use PostgresSQL as our relational database. We could
 > implement our own relational database management system, but this takes time
 > and effort.

@@ -1,5 +1,5 @@
 ---
-title: "Arrêtez de critiquer l’architecture : comprenez les décisions qui l’ont façonnée"
+title: "Arrêtez de critiquer l’architecture: comprenez les décisions qui l’ont façonnée"
 slug: "architecture-knowledge-management"
 date: 2025-12-04
 draft: false
@@ -11,7 +11,7 @@ series_order: 1
 ---
 
 Vous avez sans doute déjà entendu quelqu’un râler à propos d’une décision
-d’architecture :
+d’architecture:
 
 > [!quote] Pourquoi avons-nous fait ce choix ? Il n’a aucun sens !
 
@@ -20,15 +20,15 @@ justifiée, que ce soit en raison d’un délai de mise sur le marché très cou
 de contraintes de compatibilité ou d’autres éléments contextuels.
 
 Dans cette série d'articles, nous allons explorer plusieurs concepts essentiels pour
-structurer et gérer la connaissance architecturale. L’objectif est simple :
+structurer et gérer la connaissance architecturale. L’objectif est simple:
 capturer, partager et tracer les décisions d’architecture afin que chacun
 puisse comprendre non seulement ce qui a été décidé, mais aussi pourquoi cela
 avait du sens à ce moment-là.
 
 ## Qu’est-ce que l’Architecture Knowledge Management ?
 
-L’Architecture Knowledge Management (AKM) est conçu pour **stocker,**
-**organiser et diffuser la connaissance architecturale** au sein d’une
+L’Architecture Knowledge Management (AKM) est conçu pour **stocker**,
+**organiser** et **diffuser la connaissance architecturale** au sein d’une
 organisation.
 
 ![diagramme représentant le flux d’une décision d'architecture](architecture_knowledge_management.svg)

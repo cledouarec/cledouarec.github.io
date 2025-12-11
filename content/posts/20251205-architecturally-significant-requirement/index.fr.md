@@ -1,5 +1,5 @@
 ---
-title: "ASR : Le véritable moteur derrière chaque décision d’architecture"
+title: "ASR: Le véritable moteur derrière chaque décision d’architecture"
 slug: "architecturally-significant-requirement"
 date: 2025-12-05
 draft: false
@@ -40,7 +40,7 @@ Par exemple, une exigence liée à l’usage mémoire ne devient critique qu’�
 l’approche de la limite, c’est pourquoi une priorisation doit être définie.
 
 Les critères permettant de prioriser les ASR peuvent être regroupés en
-plusieurs grandes catégories :
+plusieurs grandes catégories:
 - Projet
 - Performance
 - Dépendances
@@ -67,7 +67,7 @@ plusieurs grandes catégories :
   avoir un comportement imprévisible, peu fiable et/ou incontrôlable.
 - L’exigence a une nature transversale et affecte plusieurs parties du système
   et leurs interactions; elle peut même avoir un impact à l’échelle du système,
-  à court et/ou long terme (exemples : sécurité, supervision).
+  à court et/ou long terme (exemples: sécurité, supervision).
 - L’exigence présente un caractère First-of-a-Kind (FOAK). Par exemple,
   l’équipe n’a jamais construit auparavant un composant ou sous-système
   répondant à cette exigence particulière.
@@ -80,7 +80,7 @@ tableau pour attribuer un score à chaque ASR.
 ![tableau d'évaluation des exigences](architecturally_significant_requirement.svg)
 
 Une manière de remplir les cellules d’un tel tableau consiste à utiliser des
-valeurs simples :
+valeurs simples:
 - High = 5
 - Medium = 2
 - Low = 1

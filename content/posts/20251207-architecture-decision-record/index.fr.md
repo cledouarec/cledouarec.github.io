@@ -24,7 +24,7 @@ Une ADR est l’élément clé d’un système de [gestion des connaissances d'a
 
 ## Comment créer une ADR ?
 
-Une ADR doit contenir au moins les éléments suivants :
+Une ADR doit contenir au moins les éléments suivants:
 - Contexte
 - Décideurs
 - Décision
@@ -38,7 +38,7 @@ Une ADR doit contenir au moins les éléments suivants :
 Chaque ADR doit porter sur une seule AD, et non sur plusieurs.
 
 > [!error] Anti-pattern
-> _Mega-ADR_ : Beaucoup d’informations détaillées sur l’architecture sont
+> _Mega-ADR_: Beaucoup d’informations détaillées sur l’architecture sont
 > entassées dans plusieurs ADRs de plusieurs pages servant de documentation
 > principale. Par exemple, les responsabilités et modalité de collaboration des
 > composants sont précisées, ou plusieurs diagrammes ou extraits de code
@@ -62,7 +62,7 @@ aspects susceptibles de changer dans le temps, comme les coûts, les
 calendriers, la montée en charge, etc.
 
 > [!error] Anti-pattern
-> _Maze_ : Le sujet de l’ADR ne correspond pas à son contenu ; la discussion
+> _Maze_: Le sujet de l’ADR ne correspond pas à son contenu ; la discussion
 > s’égare et se concentre sur des détails non pertinents dans le contexte
 > donné. Par exemple, une discussion intéressante sur les qualités positives
 > d’une option qui n’a aucun rapport avec le problème et les parties prenantes
@@ -83,21 +83,21 @@ La décision prise doit être rédigée de manière simple mais précise. L’ob
 est de voir l’action résultante de la discussion.
 
 > [!error] Anti-pattern
-> _Fairy Tale_ (ou Wishful Thinking) : Une justification superficielle est
+> _Fairy Tale_ (ou Wishful Thinking): Une justification superficielle est
 > donnée, par exemple uniquement les avantages et pas les inconvénients. Les
 > cas particuliers de cet anti-pattern sont les truismes et tautologies.
 >
-> Exemple :
+> > [!example]
 > > Nous avons choisi un load balancer parce qu’il équilibre la charge, ce qui
 > > est une bonne chose.
 
 > [!error] Anti-pattern
-> _Sales Pitch_ : Évitez les exagérations et les vantardises. Soyez toujours
+> _Sales Pitch_: Évitez les exagérations et les vantardises. Soyez toujours
 > prêt à répondre aux questions sur vos affirmations et leurs preuves. Inclure
 > tout le contexte pertinent gonflerait l’ADR; des hyperliens ou références
 > bibliographiques peuvent être fournis à la place.
 >
-> Exemple (intentionnellement exagéré) :
+> > [!example] Exemple (intentionnellement exagéré):
 > > Nous avons choisi cette technologie exceptionnelle car elle est sans égale
 > > sur le marché. Ses performances splendides brillent partout, et tous ses
 > > utilisateurs sont extraordinairement heureux en permanence.
@@ -117,12 +117,12 @@ Une décision particulière peut avoir des conséquences positives, négatives e
 neutres, mais toutes influencent l’équipe et le projet à l’avenir.
 
 > [!error] Anti-pattern
-> _Free Lunch Coupon_ (ou Candy Bar) : Aucune conséquence n’est documentée, ou
+> _Free Lunch Coupon_ (ou Candy Bar): Aucune conséquence n’est documentée, ou
 > seules celles apparemment inoffensives. Les plus difficiles sont ignorées par
 > accident ou volontairement, celles qui se matérialisent seulement à long
 > terme.
 >
-> Exemple :
+> > [!example]
 > > Nous avons choisi une architecture _event-driven_ car elle découple les
 > > composants entre eux.
 >
@@ -132,7 +132,7 @@ neutres, mais toutes influencent l’équipe et le projet à l’avenir.
 > récepteur à l’émetteur (dimension format) ?
 
 > [!error] Anti-pattern
-> _Tunnel Vision_ : Seul un contexte local et isolé est considéré. Les qualités
+> _Tunnel Vision_: Seul un contexte local et isolé est considéré. Les qualités
 > de développement sont souvent couvertes, mais les conséquences pour
 > l’exploitation et la maintenance sont insuffisamment prises en compte.
 
@@ -148,12 +148,12 @@ inconvénients pertinents.
 Ces alternatives sont décrites selon vos besoins et objectifs.
 
 > [!error] Anti-pattern
-> _Dummy Alternative_ : Une solution est inventée et présentée comme option,
+> _Dummy Alternative_: Une solution est inventée et présentée comme option,
 > mais ne fonctionne pas du tout dans le contexte donné. Ce choix vise à
 > mettre en valeur l’option préférée et à donner l’impression que plusieurs
 > alternatives ont été évaluées, ce qui n’est pas vraiment le cas.
 >
-> Exemple :
+> > [!example]
 > > Nous avons choisi PostgresSQL comme base relationnelle. Nous aurions pu
 > > implémenter notre propre SGBD relationnel, mais cela prend du temps et des
 > > efforts.
@@ -162,7 +162,7 @@ Ces alternatives sont décrites selon vos besoins et objectifs.
 > d’autres produits existants ou solutions open source comme MariaDB ?
 
 > [!error] Anti-pattern
-> _Sprint_ (ou Rush) : Une seule option est considérée. Seuls les effets à
+> _Sprint_ (ou Rush): Une seule option est considérée. Seuls les effets à
 > court terme sont discutés, concernant les deux ou trois prochaines itérations
 > du projet.
 

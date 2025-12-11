@@ -24,8 +24,8 @@ what was decided, but also why it made sense at the time.
 
 ## What is an architecture knowledge management ?
 
-An architecture knowledge management (AKM) is designed to **store, organize,
-and distribute architecture knowledge** within an organization.
+An architecture knowledge management (AKM) is designed to **store**,
+**organize**, and **distribute architecture knowledge** within an organization.
 
 ![diagram representing the flow of an archtecture decision](architecture_knowledge_management.svg)
 
