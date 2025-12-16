@@ -39,7 +39,7 @@ Une décision doit être prise sur la base de faits et en partant du problème.
 Afin d’éviter tout biais, il est important de suivre une méthodologie
 rigoureuse.
 
-![Processus de décision architecturale](architecture_decision.svg)
+![Processus de décision architecturale](architecture_decision.svg "Architecture decision process")
 
 Lors de la phase d’analyse, toutes les solutions, même les plus improbables
 (voir stupides), doivent être étudiées.

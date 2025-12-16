@@ -1,0 +1,4 @@
+figure figcaption {
+  text-align: center;
+  color: rgba(var(--color-primary-400), 1);
+}

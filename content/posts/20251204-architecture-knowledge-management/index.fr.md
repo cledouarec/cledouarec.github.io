@@ -31,7 +31,7 @@ L’Architecture Knowledge Management (AKM) est conçu pour **stocker**,
 **organiser** et **diffuser la connaissance architecturale** au sein d’une
 organisation.
 
-![diagramme représentant le flux d’une décision d'architecture](architecture_knowledge_management.svg)
+![diagramme représentant le flux d’une décision d'architecture](architecture_knowledge_management.svg "Architecture knowledge management")
 
 En termes simples, l’objectif principal est de documenter une [décision d'architecture (AD)](/fr/posts/architecture-decision)
 sur la base d’une [exigence ayant un impact architectural (ASR)](/fr/posts/architecturally-significant-requirement)

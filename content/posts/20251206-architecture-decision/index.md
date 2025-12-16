@@ -36,7 +36,7 @@ and take part in shaping these decisions.
 A decision must be taken based on facts and start from problem. In order to
 avoid any bias, it is important to follow a strict methodology.
 
-![architecture decision process](architecture_decision.svg)
+![architecture decision process](architecture_decision.svg "Architecture decision process")
 
 During the analysis stage, all solutions, even the stupid ones, must be
 analyzed.
