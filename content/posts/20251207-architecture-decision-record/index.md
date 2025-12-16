@@ -249,7 +249,7 @@ out best (see below)].
 
 {{< article link="/posts/architecture-decision-log/" showSummary=true compactSummary=true >}}
 
-> [!INFO] Some links for further reading
+> [!info] Some links for further reading
 > - https://adr.github.io/adr-templates/
 > - https://github.com/joelparkerhenderson/architecture-decision-record
 > - https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html

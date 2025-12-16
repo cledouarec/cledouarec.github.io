@@ -76,6 +76,6 @@ Git repository if no front end is available.
 This concludes this series of articles, which I hope have helped demystify ADRs
 and encouraged you to use them in your organization.
 
-> [!INFO] Some links for further reading
+> [!info] Some links for further reading
 > - https://adr.github.io/adr-tooling/
 > - https://github.com/joelparkerhenderson/architecture-decision-record
