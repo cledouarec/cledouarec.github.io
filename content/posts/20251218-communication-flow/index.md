@@ -4,7 +4,7 @@ slug: "communication-flow"
 date: 2025-12-18
 draft: false
 description: "Exploring key communication flows and their impact on team coordination."
-tags: ["Communication"]
+tags: ["communication"]
 categories: ["organization"]
 ---
 

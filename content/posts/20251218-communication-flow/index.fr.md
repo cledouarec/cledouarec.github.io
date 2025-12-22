@@ -4,7 +4,7 @@ slug: "communication-flow"
 date: 2025-12-18
 draft: false
 description: "Exploration des principaux flux de communication et de leur impact sur la coordination des équipes."
-tags: ["Communication"]
+tags: ["communication"]
 categories: ["organization"]
 ---
 

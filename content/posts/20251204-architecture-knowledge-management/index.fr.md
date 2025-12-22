@@ -4,7 +4,7 @@ slug: "architecture-knowledge-management"
 date: 2025-12-04
 draft: false
 description: "Découvrez comment documenter efficacement les décisions d’architecture et conserver les raisons qui les ont motivées."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 1

@@ -4,7 +4,7 @@ slug: "architecturally-significant-requirement"
 date: 2025-12-05
 draft: false
 description: "Un guide pratique pour comprendre et prioriser les exigences significatives pour l’architecture."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 2

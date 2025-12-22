@@ -4,7 +4,7 @@ slug: "architecture-decision-log"
 date: 2025-12-08
 draft: false
 description: "Apprenez à organiser et accéder efficacement aux décisions d'architecture."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 5

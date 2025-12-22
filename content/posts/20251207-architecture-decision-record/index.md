@@ -4,7 +4,7 @@ slug: "architecture-decision-record"
 date: 2025-12-07
 draft: false
 description: "Learn how to capture key architecture decisions clearly and effectively with ADRs."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 4

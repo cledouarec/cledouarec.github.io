@@ -4,7 +4,7 @@ slug: "architecture-decision"
 date: 2025-12-06
 draft: false
 description: "A practical introduction to making architecture decisions based on facts, not opinions."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 3

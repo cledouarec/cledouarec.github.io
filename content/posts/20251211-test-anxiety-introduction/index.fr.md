@@ -4,7 +4,7 @@ slug: "test-anxiety-introduction"
 date: 2025-12-11
 draft: false
 description: "Découvrez comment optimiser vos performances, gérer le stress et développer votre résilience dans des situations à forte pression."
-tags: ["Mental preparation"]
+tags: ["mental preparation"]
 categories: ["people-management"]
 ---
 

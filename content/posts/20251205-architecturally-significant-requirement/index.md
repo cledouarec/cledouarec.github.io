@@ -4,7 +4,7 @@ slug: "architecturally-significant-requirement"
 date: 2025-12-05
 draft: false
 description: "A practical guide to understanding and prioritizing architecturally significant requirements."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 2

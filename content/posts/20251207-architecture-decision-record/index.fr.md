@@ -4,7 +4,7 @@ slug: "architecture-decision-record"
 date: 2025-12-07
 draft: false
 description: "Apprenez à consigner clairement et efficacement les décisions architecturales clés avec les ADRs."
-tags: ["Architecture"]
+tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
 series_order: 4
