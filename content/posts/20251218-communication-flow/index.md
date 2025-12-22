@@ -6,6 +6,8 @@ draft: false
 description: "Exploring key communication flows and their impact on team coordination."
 tags: ["communication"]
 categories: ["organization"]
+series: ["Team structure"]
+series_order: 1
 ---
 
 Communication is one of the most critical drivers of project success and a key
@@ -383,6 +385,7 @@ important.
 
 In the next article, I will present the main frameworks and common ways teams are split, providing a clear comparison to help you choose the team topology that best fits your organization’s needs and goals.
 
+{{< article link="/posts/communication-flow-use-case/" showSummary=true compactSummary=true >}}
 
 > [!info] Some links for further reading
 > - [Scaling Agile: The Small-is-Beautiful of Hubs - James Coplien - GOTO 2021](https://www.youtube.com/watch?v=Va8QedfiC9k)

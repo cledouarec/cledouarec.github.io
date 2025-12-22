@@ -6,6 +6,8 @@ draft: false
 description: "Exploration des principaux flux de communication et de leur impact sur la coordination des équipes."
 tags: ["communication"]
 categories: ["organization"]
+series: ["Team structure"]
+series_order: 1
 ---
 
 La communication est l'un des facteurs les plus critiques de la réussite d'un
@@ -418,6 +420,8 @@ Dans le prochain article, je présenterai les principaux cadres et les manières
 les plus courantes de structurer les équipes. L’objectif sera de comparer ces
 approches afin de vous aider à choisir la topologie d’équipe la plus adaptée à
 votre contexte, à vos contraintes et à vos objectifs.
+
+{{< article link="/fr/posts/communication-flow-use-case/" showSummary=true compactSummary=true >}}
 
 > [!info] Quelques liens pour aller plus loin
 > - [Scaling Agile: The Small-is-Beautiful of Hubs - James Coplien - GOTO 2021](https://www.youtube.com/watch?v=Va8QedfiC9k)
