@@ -81,7 +81,6 @@ Cette série d’articles se termine ici, en espérant qu’elle aura contribué
 démystifier les ADR et vous aura encouragé à les utiliser dans votre
 organisation.
 
-
 > [!info] Quelques liens pour aller plus loin
 > - https://adr.github.io/adr-tooling/
 > - https://github.com/joelparkerhenderson/architecture-decision-record
