@@ -445,6 +445,8 @@ the dysfunction will simply reappear elsewhere. Defining what truly matters,
 and measuring whether the system moves in that direction, is what ultimately
 determines success.
 
+{{< article link="/posts/team-types/" showSummary=true compactSummary=true >}}
+
 > [!info] Some links for further reading
 > - [Using the PDCA Cycle to Support Continuous Improvement (Kaizen)](https://theleanway.net/the-continuous-improvement-cycle-pdca)
 > - [How did we shift to asynchronous communication… through baby steps?](https://robin-bonduelle.medium.com/how-did-we-shift-to-asynchronous-communication-through-baby-steps-ce816538afd8)

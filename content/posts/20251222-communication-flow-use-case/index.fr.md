@@ -484,6 +484,8 @@ l’organisation, la dysfonction réapparaîtra ailleurs. Définir ce qui compte
 vraiment et mesurer si le système évolue dans cette direction est ce qui
 détermine ultimement le succès.
 
+{{< article link="/fr/posts/team-types/" showSummary=true compactSummary=true >}}
+
 > [!info] Quelques liens pour aller plus loin
 > - [Using the PDCA Cycle to Support Continuous Improvement (Kaizen)](https://theleanway.net/the-continuous-improvement-cycle-pdca)
 > - [How did we shift to asynchronous communication… through baby steps?](https://robin-bonduelle.medium.com/how-did-we-shift-to-asynchronous-communication-through-baby-steps-ce816538afd8)
