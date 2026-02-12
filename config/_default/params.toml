@@ -24,7 +24,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 smartTOC = true
-smartTOCHideUnfocusedChildren = false
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed"
