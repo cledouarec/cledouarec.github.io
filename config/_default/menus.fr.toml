@@ -37,9 +37,21 @@
   weight = 24
 
 [[main]]
+  identifier = "projects"
+  name = "Projets"
+  pageRef = "projects"
+  weight = 3
+
+[[main]]
+  name = "SARA"
+  parent = "projects"
+  pageRef = "sara"
+  weight = 31
+
+[[main]]
   name = "A Propos"
   pageRef = "about"
-  weight = 3
+  weight = 4
 
 [[footer]]
   none = "none"
