@@ -3,7 +3,9 @@ title: "Mordor Services - Un anneau, un lancement"
 slug: "communication-flow-use-case"
 date: 2025-12-22
 draft: false
-description: "Une étude de cas pratique sur l’amélioration des flux de communication dans une entreprise technologique de taille intermédiaire."
+description: >
+    Une étude de cas pratique sur l’amélioration des flux de communication dans
+    une entreprise technologique de taille intermédiaire.
 tags: ["use case"]
 categories: ["organization"]
 series: ["Team structure"]

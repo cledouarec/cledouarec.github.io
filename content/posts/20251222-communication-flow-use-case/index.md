@@ -3,7 +3,9 @@ title: "Mordor Services - One Ring, one launch"
 slug: "communication-flow-use-case"
 date: 2025-12-22
 draft: false
-description: "A practical case study on improving communication flows in a mid-size tech company."
+description: >
+        A practical case study on improving communication flows in a mid-size
+        tech company.
 tags: ["use case"]
 categories: ["organization"]
 series: ["Team structure"]

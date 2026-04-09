@@ -3,7 +3,10 @@ title: "Tell Me How You Manage, and I'll Tell You Which Century You're From"
 slug: "management-style"
 date: 2026-01-04
 draft: false
-description: "From Taylor to Agile: why your leadership style is influenced more by industrial history than by your personality. A deep dive into management models."
+description: >
+    From Taylor to Agile: why your leadership style is influenced more by
+    industrial history than by your personality. A deep dive into management
+    models.
 tags: []
 categories: ["people-management"]
 ---

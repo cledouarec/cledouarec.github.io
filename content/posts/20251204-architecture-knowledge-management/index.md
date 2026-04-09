@@ -3,7 +3,9 @@ title: "Stop blaming architecture: understand the decisions behind it"
 slug: "architecture-knowledge-management"
 date: 2025-12-04
 draft: false
-description: "Learn how to document architecture decisions effectively and preserve the reasoning behind them for your future self and your team."
+description: >
+    Learn how to document architecture decisions effectively and preserve the
+    reasoning behind them for your future self and your team.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]

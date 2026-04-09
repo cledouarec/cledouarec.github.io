@@ -3,7 +3,9 @@ title: "Comment prendre des décisions d’architecture efficaces"
 slug: "architecture-decision"
 date: 2025-12-06
 draft: false
-description: "Une introduction pratique pour prendre des décisions d’architecture basées sur des faits, pas sur des opinions."
+description: >
+    Une introduction pratique pour prendre des décisions d’architecture basées
+    sur des faits, pas sur des opinions.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]

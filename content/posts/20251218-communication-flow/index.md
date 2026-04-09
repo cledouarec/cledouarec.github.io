@@ -3,7 +3,8 @@ title: "Decoding team communication flows"
 slug: "communication-flow"
 date: 2025-12-18
 draft: false
-description: "Exploring key communication flows and their impact on team coordination."
+description: >
+    Exploring key communication flows and their impact on team coordination.
 tags: ["communication"]
 categories: ["organization"]
 series: ["Team structure"]

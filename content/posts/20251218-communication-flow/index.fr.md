@@ -3,7 +3,9 @@ title: "Décoder les flux de communication des équipes"
 slug: "communication-flow"
 date: 2025-12-18
 draft: false
-description: "Exploration des principaux flux de communication et de leur impact sur la coordination des équipes."
+description: >
+    Exploration des principaux flux de communication et de leur impact sur la
+    coordination des équipes.
 tags: ["communication"]
 categories: ["organization"]
 series: ["Team structure"]

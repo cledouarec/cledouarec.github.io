@@ -3,7 +3,9 @@ title: "ASR: Le véritable moteur derrière chaque décision d’architecture"
 slug: "architecturally-significant-requirement"
 date: 2025-12-05
 draft: false
-description: "Un guide pratique pour comprendre et prioriser les exigences significatives pour l’architecture."
+description: >
+    Un guide pratique pour comprendre et prioriser les exigences significatives
+    pour l’architecture.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]

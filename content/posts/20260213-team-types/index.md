@@ -3,7 +3,10 @@ title: "Team types: Choosing the right structure for your organization"
 slug: "team-types"
 date: 2026-02-13
 draft: false
-description: "A comprehensive guide to different team types: horizontal, vertical, feature, impact, and more. Learn which structure fits your organization's needs."
+description: >
+    A comprehensive guide to different team types: horizontal, vertical,
+    feature, impact, and more. Learn which structure fits your organization's
+    needs.
 tags: []
 categories: ["organization"]
 series: ["Team structure"]

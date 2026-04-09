@@ -1,9 +1,13 @@
 ---
-title: "Arrêtez de critiquer l’architecture: comprenez les décisions qui l’ont façonnée"
+title: >
+    Arrêtez de critiquer l’architecture: comprenez les décisions qui l’ont
+    façonnée
 slug: "architecture-knowledge-management"
 date: 2025-12-04
 draft: false
-description: "Découvrez comment documenter efficacement les décisions d’architecture et conserver les raisons qui les ont motivées."
+description: >
+    Découvrez comment documenter efficacement les décisions d’architecture et
+    conserver les raisons qui les ont motivées.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
