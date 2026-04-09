@@ -3,7 +3,9 @@ title: "Comment rédiger une ADR efficacement"
 slug: "architecture-decision-record"
 date: 2025-12-07
 draft: false
-description: "Apprenez à consigner clairement et efficacement les décisions architecturales clés avec les ADRs."
+description: >
+    Apprenez à consigner clairement et efficacement les décisions
+    architecturales clés avec les ADRs.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]

@@ -3,7 +3,9 @@ title: "How to craft an effective ADR"
 slug: "architecture-decision-record"
 date: 2025-12-07
 draft: false
-description: "Learn how to capture key architecture decisions clearly and effectively with ADRs."
+description: >
+    Learn how to capture key architecture decisions clearly and effectively with
+    ADRs.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]

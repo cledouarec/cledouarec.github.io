@@ -3,7 +3,10 @@ title: "Types d'équipes: choisir la bonne structure pour votre organisation"
 slug: "team-types"
 date: 2026-02-13
 draft: false
-description: "Un guide complet sur les différents types d'équipes : horizontale, verticale, feature, impact, et plus encore. Découvrez quelle structure correspond aux besoins de votre organisation."
+description: >
+    Un guide complet sur les différents types d'équipes : horizontale,
+    verticale, feature, impact, et plus encore. Découvrez quelle structure
+    correspond aux besoins de votre organisation.
 tags: []
 categories: ["organization"]
 series: ["Team structure"]

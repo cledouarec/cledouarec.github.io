@@ -3,7 +3,9 @@ title: "Perform better, stress less: A practical guide for high performers"
 slug: "test-anxiety-introduction"
 date: 2025-12-11
 draft: false
-description: "Learn how to optimize your performance, manage stress, and build resilience in high-pressure situations."
+description: >
+    Learn how to optimize your performance, manage stress, and build resilience
+    in high-pressure situations.
 tags: ["mental preparation"]
 categories: ["people-management"]
 ---

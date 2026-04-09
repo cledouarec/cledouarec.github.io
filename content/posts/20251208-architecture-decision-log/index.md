@@ -3,7 +3,8 @@ title: "Centralizing your architecture decisions"
 slug: "architecture-decision-log"
 date: 2025-12-08
 draft: false
-description: "Learn how to organize and access architecture decisions effectively."
+description: >
+    Learn how to organize and access architecture decisions effectively.
 tags: ["architecture"]
 categories: ["tech"]
 series: ["Architecture knowledge management"]
