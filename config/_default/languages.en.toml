@@ -12,14 +12,12 @@ title = "Embedded Leadership"
   logo = "logo.svg"
   description = "Blog about embedded systems, software engineering, leadership, management, and technology."
 
-  [[params.author.links]]
-    github = "https://github.com/cledouarec"
-
-  [[params.author.links]]
-    linkedin = "https://www.linkedin.com/in/christophe-le-douarec/"
-
   ["params.author"]
     name = "Christophe Le Douarec"
     image = "LE DOUAREC Christophe.jpg"
     headline = "Experienced software leader with a strong background in embedded products, organizational improvement, and R&D leadership aligned with business goals."
     bio = "Experienced software leader with a strong background in embedded products, organizational improvement, and R&D leadership aligned with business goals."
+    links = [
+      { github = "https://github.com/cledouarec" },
+      { linkedin = "https://www.linkedin.com/in/christophe-le-douarec/" },
+    ]
