@@ -6,8 +6,6 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "ci"
-    labels:
-      - "dependencies"
     groups:
       all-actions:
         patterns:
@@ -20,6 +18,4 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "build"
-    labels:
-      - "dependencies"
     open-pull-requests-limit: 5
