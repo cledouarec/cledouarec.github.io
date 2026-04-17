@@ -114,10 +114,11 @@ SARA est jeune, mais les fondations sont solides. Je l'utilise sur de vrais
 projets, et j'aimerais beaucoup que vous l'essayiez aussi. Ouvrez des issues,
 soumettez des PRs, ou dites-moi simplement ce que vous en pensez.
 
-Si vous voulez voir SARA en action, consultez le guide de démarrage où nous
-construisons une chaîne de traçabilité complète pour un système de contrôle de
-maison intelligente, de la vision de la solution jusqu'aux conceptions
-détaillées, en utilisant le CLI.
+Si vous voulez voir SARA en action, consultez le
+[guide de démarrage](/fr/posts/sara-getting-started) où nous construisons une
+chaîne de traçabilité complète pour un système de contrôle de maison
+intelligente, de la vision de la solution jusqu'aux conceptions détaillées,
+en utilisant le CLI.
 
 L'objectif n'est pas de remplacer les outils d'entreprise pour tout le monde.
 Certaines organisations en ont véritablement besoin. Mais pour les équipes qui

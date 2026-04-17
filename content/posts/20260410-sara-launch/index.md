@@ -107,9 +107,10 @@ SARA is young, but the foundation is solid. I'm using it on real projects,
 and I'd love for you to try it too. Open issues, submit PRs, or just let me
 know what you think.
 
-If you want to see SARA in action, check out the getting started guide where we
-build a complete traceability chain for a Smart Home Control System, from
-solution vision down to detailed designs, using the CLI.
+If you want to see SARA in action, check out the
+[getting started guide](/posts/sara-getting-started) where we build a complete
+traceability chain for a Smart Home Control System, from solution vision down to
+detailed designs, using the CLI.
 
 The goal isn't to replace enterprise tools for everyone. Some organizations
 genuinely need them. But for teams that want something lighter, faster, and
