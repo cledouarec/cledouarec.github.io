@@ -49,6 +49,12 @@
   weight = 31
 
 [[main]]
+  name = "Claude Code Workshop"
+  parent = "projects"
+  pageRef = "claude-code-workshop"
+  weight = 32
+
+[[main]]
   name = "About"
   pageRef = "about"
   weight = 4
