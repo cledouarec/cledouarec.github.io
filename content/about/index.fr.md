@@ -6,7 +6,6 @@ description: "Découvrez qui je suis et pourquoi j’ai créé ce blog."
 showDate : false
 showDateOnlyInArticle : false
 showDateUpdated : false
-showWordCount : false
 showReadingTime : false
 showZenMode: false
 layoutBackgroundHeaderSpace: false
